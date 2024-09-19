@@ -18,6 +18,7 @@ Preparati a combattere una Mothership aliena minacciosa che minaccia di distrugg
   - Percorsi mozzafiato attraverso spazi stellari.
   - Checkpoint strategici da raggiungere per completare il percorso.
   - Competi con te stesso o con altri giocatori per il miglior tempo.
+  - Migliora i tuoi tempi per entrare nella Leader Board globale
 
 - **Alien Combat Mode:**
   - Combattimenti spaziali emozionanti contro una Mothership aliena.
